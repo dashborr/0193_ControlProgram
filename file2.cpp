@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 // Fungsi menghitung diskon
 float hitungDiskon(float total){
     if(total >= 500000)
