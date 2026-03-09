@@ -10,7 +10,7 @@ int main(){
     srand(time(0));
     x = rand() % 10;
 
-    if(x > 8){
+    if(x > 9){
 
         cout << "Angka besar = " << x;
     }else{
