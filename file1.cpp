@@ -3,6 +3,7 @@
 #include <ctime>
 using namespace std;
 
+
 int main(){
     int x;
 
@@ -13,7 +14,7 @@ int main(){
 
         cout << "Angka besar = " << x;
     }else{
-        
+
         cout << "Angka kecil = " << x;
     }
 }
