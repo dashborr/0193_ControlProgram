@@ -10,9 +10,10 @@ int main(){
     x = rand() % 10;
 
     if(x > 8){
-        
+
         cout << "Angka besar = " << x;
     }else{
+        
         cout << "Angka kecil = " << x;
     }
 }
