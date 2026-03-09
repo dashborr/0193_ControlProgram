@@ -17,6 +17,7 @@ float totalBayar(float total, float diskon){
 }
 
 int main(){
+    
     float totalBelanja, diskon, bayar;
 
     cout << "Masukkan total belanja : ";
