@@ -30,6 +30,7 @@ int main(){
     bayar = totalBayar(totalBelanja, diskon);
 
     cout << "Diskon = " << diskon << endl;
+    
     cout << "Total yang harus dibayar = " << bayar << endl;
 
     return 0;
