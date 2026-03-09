@@ -12,6 +12,7 @@ float hitungDiskon(float total){
         return 0; // tidak ada diskon
 }
 
+
 // Fungsi menghitung total bayar
 float totalBayar(float total, float diskon){
     return total - diskon;
