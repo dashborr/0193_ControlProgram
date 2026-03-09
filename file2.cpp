@@ -6,7 +6,7 @@ float hitungDiskon(float total){
     if(total >= 500000)
         return total * 0.20; // diskon 20%
     else if(total >= 250000)
-        return total * 0.10; // diskon 10%
+        return total * 0.5; // diskon 5%
     else
         return 0; // tidak ada diskon
 }
